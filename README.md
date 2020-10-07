@@ -1,2 +1,2 @@
 # MVC-
-Repo para practicar MVC
+MVC pattern practice
